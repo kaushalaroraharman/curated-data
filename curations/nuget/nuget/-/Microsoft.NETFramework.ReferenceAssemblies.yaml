@@ -9,3 +9,6 @@ revisions:
   1.0.0-preview.2:
     licensed:
       declared: MIT
+  1.0.3:
+    licensed:
+      declared: MIT
