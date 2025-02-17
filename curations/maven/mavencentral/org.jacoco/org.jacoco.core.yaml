@@ -7,6 +7,17 @@ revisions:
   0.7.9:
     licensed:
       declared: EPL-1.0
+  0.8.12:
+    described:
+      sourceLocation:
+        name: jacoco
+        namespace: jacoco
+        provider: github
+        revision: dbfb6f2ad904158b5b40a93fea222e263aeaf9ab
+        type: git
+        url: 'https://github.com/jacoco/jacoco/commit/dbfb6f2ad904158b5b40a93fea222e263aeaf9ab'
+    licensed:
+      declared: EPL-2.0
   0.8.4:
     licensed:
       declared: EPL-1.0
