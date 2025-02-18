@@ -1,0 +1,9 @@
+coordinates:
+  name: androidx
+  namespace: androidx
+  provider: github
+  type: git
+revisions:
+  73b21f9c32c10ad76888a3ccfe1e32b29124be5f:
+    licensed:
+      declared: Apache-2.0
